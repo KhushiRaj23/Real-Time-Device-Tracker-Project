@@ -65,10 +65,10 @@ Upon receiving a send-location event, the server broadcasts the location to all 
 * The client listens for receive-location events to update the map with the locations of all connected clients.
 * The client listens for user-disconnected events to remove the marker of a disconnected client.
 ## Snapshots
-<img src="https://github.com/KhushiRaj23/Real-Time-Device-Tracker-Project/blob/master/image.png"/>
+<img src="https://github.com/KhushiRaj23/Real-Time-Device-Tracker-Project/blob/master/image.png" style="height: 50vh; width: 50vw;"/>
 <br>
 <br>
-<img src="https://github.com/KhushiRaj23/Real-Time-Device-Tracker-Project/blob/master/image1.png"/>
+<img src="https://github.com/KhushiRaj23/Real-Time-Device-Tracker-Project/blob/master/image1.png"  style="height: 50vh; width: 50vw;"/>
 
 ## Contributing
 **If you have any ideas, suggestions, or improvements, feel free to fork the repository and create a pull request.**
